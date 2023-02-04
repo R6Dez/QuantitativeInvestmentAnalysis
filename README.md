@@ -1,2 +1,2 @@
-# QuantitativeInvestmetAnalysis
-Some 
+# QuantitativeInvestmentAnalysis
+Some jupyter notebooks
